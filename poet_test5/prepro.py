@@ -1,5 +1,6 @@
+###pyenv 사용하여 python 버전 설정
 ###poetry env use 3.8.5
-### poetry install  실행 필요
+###poetry install  실행 필요
 
 import pandas as pd
 import tensorflow as tf
